@@ -1,4 +1,4 @@
-# TP-JAXRS
+# JAXRS
 
 ## Author
 Mohamed Saad Daali
